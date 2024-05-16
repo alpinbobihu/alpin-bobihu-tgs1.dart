@@ -1,0 +1,42 @@
+// tugas 1
+
+// buatlah repositori
+// tugas1dart di github dan didalamnya
+
+// ada file tugas1.dart
+
+// kirimkan link repositori
+// yang sudah selesai tugas berikut
+
+void main(){
+  print("exercise1 = ${exercise1()}");
+  print("exercise2 = ${exercise2()}");
+  print("exercise3 = ${exercise3()}");
+  print("exercise4 = ${exercise4()}");
+  print("exercise5 = ${exercise5()}");
+  print("exercise6 = ${exercise6()}");
+  print("exercise7 = ${exercise7()}");
+  print("exercise8 = ${exercise8()}");
+  print("exercise9 = ${exercise9()}");
+  print("exercise10 = ${exercise10()}");
+  print("exercise11 = ${exercise11()}");
+  print("exercise12() = ${exercise12()}");
+  print("exercise13() = ${exercise13()}");
+  print("exercise14() = ${exercise14()}");
+  print("exercise15() = ${exercise15()}");
+  print("exercise16() = ${exercise16()}");
+  print("exercise17() = ${exercise17()}");
+  print("exercise18() = ${exercise18()}");
+  print("exercise19() = ${exercise19()}");
+  print("exercise20() = ${exercise20()}");
+  print("exercise21() = ${exercise21()}");
+  print("exercise22() = ${exercise22()}");
+  print("exercise23() = ${exercise23()}");
+  print("exercise24() = ${exercise24()}");
+  print("exercise25() = ${exercise25()}");
+  print("exercise26() = ${exercise26()}");
+  print("exercise27() = ${exercise27()}");
+  print("exercise28() = ${exercise28()}");
+  print("exercise29() = ${exercise29()}");
+  print("exercise30() = ${exercise30()}");
+  print("exercise31() = ${exercise31()}"
